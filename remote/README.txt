@@ -1,4 +1,10 @@
-Registry key:
+Setup
+==========
+
+
+1) Place scripts in C:\remote\
+
+2) Add Registry key in Hyve:
 
  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon
 
